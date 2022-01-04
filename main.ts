@@ -4,5 +4,3 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     }
 })
 let int_menuScreen = 0
-let int_mapScreen = 1
-let int_villageScreen = 1
