@@ -132,3 +132,4 @@ let int_menuScreen = 0
 let int_mapScreen = 1
 let int_villageScreen = 1
 loadMapScreen()
+
